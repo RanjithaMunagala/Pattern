@@ -20,6 +20,9 @@ ver_line(col_width, rep, colour) returns an image with vertical colour stripes.
 hori_line(row_height, no_rows, colour) returns an image with horizontal stripes.
 ![image](https://user-images.githubusercontent.com/66545190/121366569-372d8580-c957-11eb-8481-f3da9343c252.png)
 
+diag_line1(col_width, rep, colour) or diag_line2(col_width, rep, colour) returns an image with diagonal stripes.
+![image](https://user-images.githubusercontent.com/66545190/121366805-66dc8d80-c957-11eb-9e23-1c46489d6c24.png)
+
 
 
 
