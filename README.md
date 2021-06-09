@@ -14,3 +14,11 @@ Size of the image and the colours of patern depends on the parameters passed.
 
 All the functions use similar functions with small changes to create a different pattern.
 
+ver_line(col_width, rep, colour) returns a image with vertical colour stripes.
+![image](https://user-images.githubusercontent.com/66545190/121366369-0d745e80-c957-11eb-8f84-b28d2cccb3ed.png)
+
+
+
+
+
+
