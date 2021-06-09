@@ -12,4 +12,5 @@ row_height - required height of each row
 
 Size of the image and the colours of patern depends on the parameters passed.
 
+All the functions use similar functions with small changes to create a different pattern.
 
